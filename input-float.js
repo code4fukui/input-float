@@ -2,8 +2,8 @@ import { FloatValidator } from "./FloatValidator.js";
 import { InputWithValidator } from "https://code4fukui.github.io/input-number/InputWithValidator.js";
 
 class InputFloat extends InputWithValidator {
-  constructor() {
-    super(new FloatValidator());
+  constructor(opts) {
+    super(new FloatValidator(), opts);
   }
 }
 
