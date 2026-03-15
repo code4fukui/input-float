@@ -1,16 +1,16 @@
 # input-float
 
-Input field component for floating-point numbers.
+浮動小数点数の入力に特化したカスタム要素です。
 
-## Demo
+## デモ
 https://code4fukui.github.io/input-float/
 
-## Features
-- Validates input to only allow valid floating-point numbers
-- Normalizes input to remove invalid characters
-- Supports both Arabic and Japanese numerals
+## 機能
+- 浮動小数点数のみ入力可能
+- maxlength属性でサイズ制限可能
 
-## Usage
+## 使い方
+
 ```html
 <script type="module" src="https://code4fukui.github.io/input-float/input-float.js"></script>
 <input-float id=inp maxlength=5></input-float>
@@ -24,5 +24,5 @@ onload = () => {
 </script>
 ```
 
-## License
-MIT
+## ライセンス
+MIT License
