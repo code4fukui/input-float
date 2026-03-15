@@ -1,5 +1,7 @@
 # input-float
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Input field component for floating-point numbers.
 
 ## Demo

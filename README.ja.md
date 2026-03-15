@@ -7,7 +7,7 @@ https://code4fukui.github.io/input-float/
 
 ## 機能
 - 浮動小数点数のみ入力可能
-- maxlength属性でサイズ制限可能
+- `maxlength`属性でサイズ制限可能
 
 ## 使い方
 
