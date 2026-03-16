@@ -2,7 +2,7 @@
 
 > 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-Input field component for floating-point numbers.
+A custom element for input fields that only accept floating-point numbers.
 
 ## Demo
 https://code4fukui.github.io/input-float/
@@ -27,4 +27,4 @@ onload = () => {
 ```
 
 ## License
-MIT
+MIT License — see [LICENSE](LICENSE).
